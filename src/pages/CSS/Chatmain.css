@@ -1,0 +1,35 @@
+.chat-main{
+  
+}
+
+.chat-main__container{
+    display: flex;
+    flex-direction: column;
+}
+
+.item-chatmain{ 
+    background-color: #1E1E1E;
+    padding: 24px;
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+}
+.item-chatmain__content{
+    padding-left: 10px;
+}
+.item-chatmain__title{
+    color: #FFF;
+    font-family:'Montserrat';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;    
+}
+.item-chatmain__sub-title{
+    color: rgba(255, 255, 255, 0.50);
+    font-family: 'Montserrat';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

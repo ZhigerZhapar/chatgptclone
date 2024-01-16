@@ -1,0 +1,29 @@
+.main{
+    background-color:#171616;
+
+}
+.main__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    height: 100vh;
+}
+
+.main__container h1{
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main__container h2{
+    color: rgba(255, 255, 255, 0.50);
+    font-family:' Montserrat';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

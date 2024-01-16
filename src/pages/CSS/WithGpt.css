@@ -1,0 +1,42 @@
+.withgpt__body{
+    display: flex;
+    align-items: center;
+    padding: 24px;
+}
+.withgpt__item{
+    margin-bottom: 26px;
+    padding-bottom: 45px;
+}
+.withgpt span{
+    color: rgba(255, 255, 255, 0.50);
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.input-text{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.withgpt__text{
+    margin-bottom: 20px;
+    padding-top: 5px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.footer__row img {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer__row button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    /* Добавьте другие необходимые стили */
+}

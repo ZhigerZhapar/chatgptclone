@@ -1,0 +1,15 @@
+.header2 p{
+    color: #FFF;
+    padding-left: 10px;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.header2{
+    display: flex;
+    align-items: center;
+    padding: 24px;
+    background: #1E1E1E;
+}
